@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.jhw.client.ui.StartView"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.message.BaseMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.message.RecvMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.recv.UnkownedRecvMessae"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.recv.LoginRecvMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.recv.GetUsersListRecvMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.recv.UnkownedRecvMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.MessageExecuteAcceptor"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
+    <fullyQualifiedTypeName name="java.util.Hashtable"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.send.LoginSendMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.sending.SendingThreadManager"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.send.GetUsersListSendMessage"/>
+    <fullyQualifiedTypeName name="org.indy.io.PeerDisconnectedException"/>
+    <fullyQualifiedTypeName name="org.indy.io.NotConnectedException"/>
+    <fullyQualifiedTypeName name="org.indy.io.ReadTimedOutException"/>
+    <fullyQualifiedTypeName name="org.indy.io.IndyIOException"/>
+    <fullyQualifiedTypeName name="org.indy.PeerThread"/>
+    <fullyQualifiedTypeName name="org.indy.TCPServerConnection"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.send.ChatSendMessage"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.message.SendMessage"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.MessagerExecuteListener"/>
+    <fullyQualifiedTypeName name="du.dsc.messenger.server.recv.ChatRecvMessage"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Messenger_Client&apos;&#x0D;&#x0A;- Original project: &apos;Messenger_Client&apos;&#x0D;&#x0A;- Original element: &apos;Messenger_Client/src/du.dsc.messenger.jhw.client.ui&apos;" description="Delete element" element1="/src&lt;du.dsc.messenger.jhw.client.ui" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1521203687300" subPackages="false" version="1.0"/>
+</session>

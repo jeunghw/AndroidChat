@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+E:\이전2\전공심화\1학기\고급모바일프로그래밍\프로그램\.metadata\.plugins\org.eclipse.jdt.core
+2435493742.index
+2498283261.index
+2433084240.index

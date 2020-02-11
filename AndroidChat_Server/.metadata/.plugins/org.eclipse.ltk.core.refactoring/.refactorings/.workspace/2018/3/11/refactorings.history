@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Messenger_Client_android&apos;" deleteContents="true" description="Delete resource &apos;Messenger_Client_android&apos;" element1="/Messenger_Client_android" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1520746280430"/>
+</session>
